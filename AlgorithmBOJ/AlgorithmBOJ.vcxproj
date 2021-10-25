@@ -124,19 +124,35 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10818.cpp" />
+    <ClCompile Include="10992.cpp" />
     <ClCompile Include="10952.cpp" />
     <ClCompile Include="10953.cpp" />
     <ClCompile Include="1000.cpp" />
     <ClCompile Include="10950.cpp" />
     <ClCompile Include="10951.cpp" />
+    <ClCompile Include="10991.cpp" />
     <ClCompile Include="11021.cpp" />
     <ClCompile Include="11022.cpp" />
     <ClCompile Include="11718.cpp" />
     <ClCompile Include="11719.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="11721.cpp" />
+    <ClCompile Include="1924.cpp" />
+    <ClCompile Include="2438.cpp" />
+    <ClCompile Include="2439.cpp" />
+    <ClCompile Include="2440.cpp" />
+    <ClCompile Include="2441.cpp" />
+    <ClCompile Include="2442.cpp" />
+    <ClCompile Include="2445.cpp" />
+    <ClCompile Include="2446.cpp" />
+    <ClCompile Include="2522.cpp" />
     <ClCompile Include="2557.cpp" />
     <ClCompile Include="2558.cpp" />
+    <ClCompile Include="2739.cpp" />
+    <ClCompile Include="2741.cpp" />
+    <ClCompile Include="2742.cpp" />
+    <ClCompile Include="8393.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
