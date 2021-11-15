@@ -124,7 +124,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="11053.cpp" />
     <ClCompile Include="10818.cpp" />
+    <ClCompile Include="10844.cpp" />
     <ClCompile Include="10992.cpp" />
     <ClCompile Include="10952.cpp" />
     <ClCompile Include="10953.cpp" />
@@ -134,11 +136,20 @@
     <ClCompile Include="10991.cpp" />
     <ClCompile Include="11021.cpp" />
     <ClCompile Include="11022.cpp" />
+    <ClCompile Include="11054.cpp" />
+    <ClCompile Include="11055.cpp" />
+    <ClCompile Include="11057.cpp" />
     <ClCompile Include="11718.cpp" />
     <ClCompile Include="11719.cpp" />
     <ClCompile Include="11720.cpp" />
     <ClCompile Include="11721.cpp" />
+    <ClCompile Include="11722.cpp" />
+    <ClCompile Include="11726.cpp" />
+    <ClCompile Include="11727.cpp" />
+    <ClCompile Include="1463.cpp" />
     <ClCompile Include="1924.cpp" />
+    <ClCompile Include="2156.cpp" />
+    <ClCompile Include="2193.cpp" />
     <ClCompile Include="2438.cpp" />
     <ClCompile Include="2439.cpp" />
     <ClCompile Include="2440.cpp" />
@@ -153,6 +164,11 @@
     <ClCompile Include="2741.cpp" />
     <ClCompile Include="2742.cpp" />
     <ClCompile Include="8393.cpp" />
+    <ClCompile Include="9095.cpp" />
+    <ClCompile Include="9465.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="9465.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
